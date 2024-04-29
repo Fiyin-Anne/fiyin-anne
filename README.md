@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋 
+
+***
+
+### Welcome to My GitHub Profile!
+
+**About Me:**
+
+✨ I'm Fiyin Akinsiku, a software engineer passionate about creating and contributing to software projects that improve people's lives.  I currently work as a backend engineer and enjoy sharing my learning through technical articles.  You can find some of them [here](https://www.clippings.me/fiyinakinsiku).
+
+**Current Focus:**
+
+🌱 Backend development, technical writing and building projects on GitHub.
+
+**How to reach me:**
+
+📫 I'm on [LinkedIn](https://www.linkedin.com/in/fiyinfoluwa-akinsiku/) and you can also reach me via [email](mailto:fiyinakinsiku.b@gmail.com). Let's connect!
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fiyin-anne)](https://git.io/streak-stats)
 
 <!--
 **Fiyin-Anne/fiyin-anne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
